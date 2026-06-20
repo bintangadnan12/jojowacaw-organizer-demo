@@ -1,4 +1,4 @@
-// ============================================================
+﻿// ============================================================
 // BRAND CONFIG — edit bagian ini saja untuk ganti klien
 // ============================================================
 export const BRAND = {
@@ -67,15 +67,15 @@ export const SERVICES = [
 ];
 
 export const GALLERY = [
-  { src: "/img/wedding2.jpg", cat: "Wedding", h: "tall" },
-  { src: "/img/wedding6.jpg", cat: "Dekorasi", h: "short" },
+  { src: "/img/wedding1.jpg", cat: "Wedding", h: "tall" },
+  { src: "/img/wedding2.jpg", cat: "Dekorasi", h: "short" },
   { src: "/img/wedding3.jpg", cat: "Wedding", h: "short" },
-  { src: "/img/wedding7.jpg", cat: "Dekorasi", h: "tall" },
-  { src: "/img/wedding4.jpg", cat: "Wedding", h: "tall" },
-  { src: "/img/wedding5.jpg", cat: "Dokumentasi", h: "short" },
-  { src: "/img/wedding1.jpg", cat: "Wedding", h: "short" },
-  { src: "/img/wedding6.jpg", cat: "Dekorasi", h: "tall" },
-  { src: "/img/wedding7.jpg", cat: "Wedding", h: "short" },
+  { src: "/img/wedding4.jpg", cat: "Dekorasi", h: "tall" },
+  { src: "/img/wedding5.jpg", cat: "Event", h: "tall" },
+  { src: "/img/wedding6.jpg", cat: "Wedding", h: "short" },
+  { src: "/img/wedding7.jpg", cat: "Dokumentasi", h: "short" },
+  { src: "/img/wedding8.jpg", cat: "Wedding", h: "tall" },
+  { src: "/img/wedding9.jpg", cat: "Dekorasi", h: "short" },
 ];
 
 export const GALLERY_TABS = ["Semua", "Wedding", "Dekorasi", "Dokumentasi"] as const;
